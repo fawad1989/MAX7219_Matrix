@@ -7,12 +7,16 @@ Driver for 8X8 LED matrix based on MAX7219
 
 [Editor Markdown](https://stackedit.io/)
 
+[Microcontroller Used](https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html)
+
 
 
 # TASKS
 
-Read the datasheet and get the main characteristics of the chip. Use this [MAX7219 Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf) or localy [MAX7219 Datasheet](./docs/MAX7219-MAX7221.pdf)
+Read the datasheet and get the main characteristics of the chip. Use this [MAX7219 Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf)
 
+- [ ] Make a Circuit Diagram and Update
+- [ ] Schematics and Datasheet of the boards used with dedicated       folders
 - [ ] Minimum Frequency
 - [ ] Maximum Frequency
 - [ ] Pins used for communicate with the microcontroller
