@@ -9,6 +9,8 @@ Driver for 8X8 LED matrix based on MAX7219
 
 [Microcontroller Used](https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html)
 
+[MAX7219 Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf)
+
 
 
 # TASKS
